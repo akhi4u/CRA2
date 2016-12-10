@@ -9,7 +9,7 @@ Use the links to checkout images at [Docker Hub][hub] and commands to execute th
 -- Install [VisTrails][vistrails] and [Docker][docker]
 
 ### Part 1: 
-* Open the file <tb.vt> from folder P1 in VisTrails and execue the workflow.
+* Open the file <tb.vt> from folder P1 in VisTrails and execute the workflow.
 
 ### Base: [Image] [Base]
 * Part 2 and 3 use the Base image.
